@@ -1,0 +1,38 @@
+body {
+    background-image:url('assets/stars.jpg');
+      }
+.crimson-text{
+  color: crimson;
+}
+.silver-text {
+  color: silver;
+   }
+.golden-text {
+  color: gold;
+  font-size: 18px;
+    }
+h1 {
+  font-size: 45px;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top:30px;
+ }
+#h2{
+  font-size: 23px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+ 
+.img {
+  max-width:50%;
+  height:auto; 
+}
+.gray-box {
+  border-color: #212121;
+  border-width: 5px;
+  border-style: solid;
+}
+.ending {
+  font-size: 22px;
+  font-family: helvetica;  
+}
