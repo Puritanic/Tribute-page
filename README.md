@@ -1,3 +1,2 @@
 # Tribute-page
-Tribute page for FCC
-nothing special
+Tribute page for FCC FE curriculum 
